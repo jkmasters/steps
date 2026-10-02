@@ -25,7 +25,8 @@
    "steps": 10835,
    "distance_m": 8650,
    "belt_time_s": 7200,
-   "max_speed_kmh": 5.6
+   "max_speed_kmh": 5.6,
+   "avg_hr_bpm": null
   }
  ]
 }
