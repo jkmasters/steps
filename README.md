@@ -39,7 +39,8 @@ storage backend changes, this schema is the contract to keep.
       "steps": 8643,
       "distance_m": 6740,                        // pad resolution is 10 m
       "belt_time_s": 5900,                       // time the belt was moving
-      "max_speed_kmh": 4.8
+      "max_speed_kmh": 4.8,
+      "avg_hr_bpm": 108                          // null if no heart-rate sensor was worn
     }
   ]
 }
@@ -49,3 +50,5 @@ Notes for consumers:
 - A day is assigned by the walk's local start date.
 - `days` ends at the last day walked; days after it (up to today) are zero.
 - A walk in progress shows up as the last session with a recent `ended_at`.
+- `avg_hr_bpm` averages 5 s heart-rate samples taken while the belt was moving (pauses
+  excluded). Added 2026-10-02; older walks have `null`.
