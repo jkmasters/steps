@@ -1,30 +1,30 @@
 {
  "schema_version": 1,
  "timezone": "America/New_York",
- "updated_at": "2026-10-02T15:34:36-04:00",
+ "updated_at": "2026-10-02T15:39:07-04:00",
  "first_day": "2026-10-02",
  "totals": {
-  "steps": 10361,
-  "distance_m": 8230,
-  "belt_time_s": 6929,
+  "steps": 10835,
+  "distance_m": 8650,
+  "belt_time_s": 7200,
   "walks": 1
  },
  "days": [
   {
    "date": "2026-10-02",
-   "steps": 10361,
-   "distance_m": 8230,
-   "belt_time_s": 6929,
+   "steps": 10835,
+   "distance_m": 8650,
+   "belt_time_s": 7200,
    "walks": 1
   }
  ],
  "sessions": [
   {
    "started_at": "2026-10-02T13:39:13-04:00",
-   "ended_at": "2026-10-02T15:34:36-04:00",
-   "steps": 10361,
-   "distance_m": 8230,
-   "belt_time_s": 6929,
+   "ended_at": "2026-10-02T15:39:07-04:00",
+   "steps": 10835,
+   "distance_m": 8650,
+   "belt_time_s": 7200,
    "max_speed_kmh": 5.6
   }
  ]
