@@ -1,13 +1,13 @@
 {
  "schema_version": 1,
  "timezone": "America/New_York",
- "updated_at": "2026-10-02T17:47:51-04:00",
+ "updated_at": "2026-10-03T12:44:47-04:00",
  "first_day": "2026-10-02",
  "totals": {
-  "steps": 18417,
-  "distance_m": 14840,
-  "belt_time_s": 11891,
-  "walks": 5
+  "steps": 18815,
+  "distance_m": 15130,
+  "belt_time_s": 12164,
+  "walks": 6
  },
  "race": {
   "name": "Atlanta to the Pacific",
@@ -23,15 +23,15 @@
    "lon": -118.10974
   },
   "goal_mi": 1939.0,
-  "distance_mi": 9.22,
-  "progress_pct": 0.476,
-  "remaining_mi": 1929.78,
+  "distance_mi": 9.4,
+  "progress_pct": 0.485,
+  "remaining_mi": 1929.6,
   "position": {
    "lat": 33.749,
-   "lon": -84.54837,
+   "lon": -84.5515,
    "place": "South Fulton, Georgia"
   },
-  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-84.54837",
+  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-84.55150",
   "finished_on": null
  },
  "days": [
@@ -41,6 +41,13 @@
    "distance_m": 14840,
    "belt_time_s": 11891,
    "walks": 5
+  },
+  {
+   "date": "2026-10-03",
+   "steps": 398,
+   "distance_m": 290,
+   "belt_time_s": 273,
+   "walks": 1
   }
  ],
  "sessions": [
@@ -88,6 +95,15 @@
    "belt_time_s": 126,
    "max_speed_kmh": 4.8,
    "avg_hr_bpm": 81
+  },
+  {
+   "started_at": "2026-10-03T12:40:15-04:00",
+   "ended_at": "2026-10-03T12:44:47-04:00",
+   "steps": 398,
+   "distance_m": 290,
+   "belt_time_s": 273,
+   "max_speed_kmh": 4.0,
+   "avg_hr_bpm": null
   }
  ]
 }
