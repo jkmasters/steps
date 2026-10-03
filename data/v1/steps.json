@@ -9,6 +9,31 @@
   "belt_time_s": 11891,
   "walks": 5
  },
+ "race": {
+  "name": "Atlanta to the Pacific",
+  "route": "due west along 33.749\u00b0 N",
+  "start": {
+   "name": "Downtown Atlanta, Georgia",
+   "lat": 33.749,
+   "lon": -84.388
+  },
+  "finish": {
+   "name": "Long Beach, California",
+   "lat": 33.749,
+   "lon": -118.10974
+  },
+  "goal_mi": 1939.0,
+  "distance_mi": 9.22,
+  "progress_pct": 0.476,
+  "remaining_mi": 1929.78,
+  "position": {
+   "lat": 33.749,
+   "lon": -84.54837,
+   "place": "South Fulton, Georgia"
+  },
+  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-84.54837",
+  "finished_on": null
+ },
  "days": [
   {
    "date": "2026-10-02",
