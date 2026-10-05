@@ -1,12 +1,12 @@
 {
  "schema_version": 1,
  "timezone": "America/New_York",
- "updated_at": "2026-10-05T12:07:11-04:00",
+ "updated_at": "2026-10-05T12:17:11-04:00",
  "first_day": "2026-10-02",
  "totals": {
-  "steps": 22219,
-  "distance_m": 17660,
-  "belt_time_s": 14511,
+  "steps": 23145,
+  "distance_m": 18380,
+  "belt_time_s": 15113,
   "walks": 7
  },
  "race": {
@@ -23,15 +23,15 @@
    "lon": -118.10974
   },
   "goal_mi": 1939.0,
-  "distance_mi": 10.97,
-  "progress_pct": 0.566,
-  "remaining_mi": 1928.03,
+  "distance_mi": 11.42,
+  "progress_pct": 0.589,
+  "remaining_mi": 1927.58,
   "position": {
    "lat": 33.749,
-   "lon": -84.57884,
-   "place": "Mableton, Georgia"
+   "lon": -84.58662,
+   "place": "Douglas County, Georgia"
   },
-  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-84.57884",
+  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-84.58662",
   "finished_on": null
  },
  "days": [
@@ -58,9 +58,9 @@
   },
   {
    "date": "2026-10-05",
-   "steps": 833,
-   "distance_m": 600,
-   "belt_time_s": 577,
+   "steps": 1759,
+   "distance_m": 1320,
+   "belt_time_s": 1179,
    "walks": 1
   }
  ],
@@ -121,12 +121,12 @@
   },
   {
    "started_at": "2026-10-05T11:57:35-04:00",
-   "ended_at": "2026-10-05T12:07:11-04:00",
-   "steps": 833,
-   "distance_m": 600,
-   "belt_time_s": 577,
-   "max_speed_kmh": 4.0,
-   "avg_hr_bpm": 74
+   "ended_at": "2026-10-05T12:17:11-04:00",
+   "steps": 1759,
+   "distance_m": 1320,
+   "belt_time_s": 1179,
+   "max_speed_kmh": 4.4,
+   "avg_hr_bpm": 73
   }
  ]
 }
