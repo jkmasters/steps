@@ -1,13 +1,13 @@
 {
  "schema_version": 1,
  "timezone": "America/New_York",
- "updated_at": "2026-10-05T14:22:06-04:00",
+ "updated_at": "2026-10-05T15:17:53-04:00",
  "first_day": "2026-10-02",
  "totals": {
-  "steps": 34271,
-  "distance_m": 27580,
-  "belt_time_s": 22045,
-  "walks": 10
+  "steps": 34722,
+  "distance_m": 27880,
+  "belt_time_s": 22284,
+  "walks": 13
  },
  "race": {
   "name": "Atlanta to the Pacific",
@@ -23,15 +23,15 @@
    "lon": -118.10974
   },
   "goal_mi": 1939.0,
-  "distance_mi": 17.14,
-  "progress_pct": 0.884,
-  "remaining_mi": 1921.86,
+  "distance_mi": 17.32,
+  "progress_pct": 0.893,
+  "remaining_mi": 1921.68,
   "position": {
    "lat": 33.749,
-   "lon": -84.68604,
+   "lon": -84.68928,
    "place": "Douglas County, Georgia"
   },
-  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-84.68604",
+  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-84.68928",
   "finished_on": null
  },
  "days": [
@@ -58,10 +58,10 @@
   },
   {
    "date": "2026-10-05",
-   "steps": 12885,
-   "distance_m": 10520,
-   "belt_time_s": 8111,
-   "walks": 4
+   "steps": 13336,
+   "distance_m": 10820,
+   "belt_time_s": 8350,
+   "walks": 7
   }
  ],
  "sessions": [
@@ -154,6 +154,33 @@
    "belt_time_s": 1616,
    "max_speed_kmh": 4.8,
    "avg_hr_bpm": 73
+  },
+  {
+   "started_at": "2026-10-05T15:13:29-04:00",
+   "ended_at": "2026-10-05T15:14:23-04:00",
+   "steps": 79,
+   "distance_m": 60,
+   "belt_time_s": 54,
+   "max_speed_kmh": 4.8,
+   "avg_hr_bpm": 81
+  },
+  {
+   "started_at": "2026-10-05T15:14:28-04:00",
+   "ended_at": "2026-10-05T15:14:28-04:00",
+   "steps": 79,
+   "distance_m": 0,
+   "belt_time_s": 0,
+   "max_speed_kmh": 0.3,
+   "avg_hr_bpm": 80
+  },
+  {
+   "started_at": "2026-10-05T15:14:48-04:00",
+   "ended_at": "2026-10-05T15:17:53-04:00",
+   "steps": 293,
+   "distance_m": 240,
+   "belt_time_s": 185,
+   "max_speed_kmh": 4.8,
+   "avg_hr_bpm": 75
   }
  ]
 }
