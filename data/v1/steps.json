@@ -1,13 +1,13 @@
 {
  "schema_version": 1,
  "timezone": "America/New_York",
- "updated_at": "2026-10-03T13:14:11-04:00",
+ "updated_at": "2026-10-05T12:07:11-04:00",
  "first_day": "2026-10-02",
  "totals": {
-  "steps": 21386,
-  "distance_m": 17060,
-  "belt_time_s": 13934,
-  "walks": 6
+  "steps": 22219,
+  "distance_m": 17660,
+  "belt_time_s": 14511,
+  "walks": 7
  },
  "race": {
   "name": "Atlanta to the Pacific",
@@ -23,15 +23,15 @@
    "lon": -118.10974
   },
   "goal_mi": 1939.0,
-  "distance_mi": 10.6,
-  "progress_pct": 0.547,
-  "remaining_mi": 1928.4,
+  "distance_mi": 10.97,
+  "progress_pct": 0.566,
+  "remaining_mi": 1928.03,
   "position": {
    "lat": 33.749,
-   "lon": -84.57236,
+   "lon": -84.57884,
    "place": "Mableton, Georgia"
   },
-  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-84.57236",
+  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-84.57884",
   "finished_on": null
  },
  "days": [
@@ -47,6 +47,20 @@
    "steps": 2969,
    "distance_m": 2220,
    "belt_time_s": 2043,
+   "walks": 1
+  },
+  {
+   "date": "2026-10-04",
+   "steps": 0,
+   "distance_m": 0,
+   "belt_time_s": 0,
+   "walks": 0
+  },
+  {
+   "date": "2026-10-05",
+   "steps": 833,
+   "distance_m": 600,
+   "belt_time_s": 577,
    "walks": 1
   }
  ],
@@ -104,6 +118,15 @@
    "belt_time_s": 2043,
    "max_speed_kmh": 4.8,
    "avg_hr_bpm": 73
+  },
+  {
+   "started_at": "2026-10-05T11:57:35-04:00",
+   "ended_at": "2026-10-05T12:07:11-04:00",
+   "steps": 833,
+   "distance_m": 600,
+   "belt_time_s": 577,
+   "max_speed_kmh": 4.0,
+   "avg_hr_bpm": 74
   }
  ]
 }
