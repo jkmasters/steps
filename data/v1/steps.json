@@ -1,12 +1,12 @@
 {
  "schema_version": 1,
  "timezone": "America/New_York",
- "updated_at": "2026-10-06T14:06:34-04:00",
+ "updated_at": "2026-10-06T14:16:38-04:00",
  "first_day": "2026-10-02",
  "totals": {
-  "steps": 46294,
-  "distance_m": 32740,
-  "belt_time_s": 26013,
+  "steps": 47189,
+  "distance_m": 33420,
+  "belt_time_s": 26619,
   "walks": 15
  },
  "race": {
@@ -23,15 +23,15 @@
    "lon": -118.10974
   },
   "goal_mi": 1939.0,
-  "distance_mi": 20.34,
-  "progress_pct": 1.049,
-  "remaining_mi": 1918.66,
+  "distance_mi": 20.77,
+  "progress_pct": 1.071,
+  "remaining_mi": 1918.23,
   "position": {
    "lat": 33.749,
-   "lon": -84.7418,
+   "lon": -84.74915,
    "place": "Douglasville, Georgia"
   },
-  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-84.74180",
+  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-84.74915",
   "finished_on": null
  },
  "days": [
@@ -65,9 +65,9 @@
   },
   {
    "date": "2026-10-06",
-   "steps": 668,
-   "distance_m": 490,
-   "belt_time_s": 452,
+   "steps": 1563,
+   "distance_m": 1170,
+   "belt_time_s": 1058,
    "walks": 1
   }
  ],
@@ -200,10 +200,10 @@
   },
   {
    "started_at": "2026-10-06T13:59:03-04:00",
-   "ended_at": "2026-10-06T14:06:34-04:00",
-   "steps": 668,
-   "distance_m": 490,
-   "belt_time_s": 452,
+   "ended_at": "2026-10-06T14:16:38-04:00",
+   "steps": 1563,
+   "distance_m": 1170,
+   "belt_time_s": 1058,
    "max_speed_kmh": 4.0,
    "avg_hr_bpm": null
   }
