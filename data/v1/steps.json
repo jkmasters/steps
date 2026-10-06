@@ -1,13 +1,13 @@
 {
  "schema_version": 1,
  "timezone": "America/New_York",
- "updated_at": "2026-10-06T15:06:46-04:00",
+ "updated_at": "2026-10-06T15:11:50-04:00",
  "first_day": "2026-10-02",
  "totals": {
-  "steps": 51635,
-  "distance_m": 36990,
-  "belt_time_s": 29513,
-  "walks": 16
+  "steps": 46428,
+  "distance_m": 37360,
+  "belt_time_s": 29817,
+  "walks": 14
  },
  "race": {
   "name": "Atlanta to the Pacific",
@@ -23,15 +23,15 @@
    "lon": -118.10974
   },
   "goal_mi": 1939.0,
-  "distance_mi": 22.98,
-  "progress_pct": 1.185,
-  "remaining_mi": 1916.02,
+  "distance_mi": 23.21,
+  "progress_pct": 1.197,
+  "remaining_mi": 1915.79,
   "position": {
    "lat": 33.749,
-   "lon": -84.78773,
+   "lon": -84.79173,
    "place": "Douglas County, Georgia"
   },
-  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-84.78773",
+  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-84.79173",
   "finished_on": null
  },
  "days": [
@@ -58,16 +58,16 @@
   },
   {
    "date": "2026-10-05",
-   "steps": 24240,
+   "steps": 18566,
    "distance_m": 15190,
    "belt_time_s": 11627,
-   "walks": 8
+   "walks": 6
   },
   {
    "date": "2026-10-06",
-   "steps": 6009,
-   "distance_m": 4740,
-   "belt_time_s": 3952,
+   "steps": 6476,
+   "distance_m": 5110,
+   "belt_time_s": 4256,
    "walks": 2
   }
  ],
@@ -172,31 +172,13 @@
    "avg_hr_bpm": 81
   },
   {
-   "started_at": "2026-10-05T15:14:28-04:00",
-   "ended_at": "2026-10-05T15:14:28-04:00",
-   "steps": 79,
-   "distance_m": 0,
-   "belt_time_s": 0,
-   "max_speed_kmh": 0.3,
-   "avg_hr_bpm": 80
-  },
-  {
    "started_at": "2026-10-05T15:14:48-04:00",
-   "ended_at": "2026-10-05T16:12:19-04:00",
-   "steps": 5595,
+   "ended_at": "2026-10-05T16:12:24-04:00",
+   "steps": 5602,
    "distance_m": 4610,
    "belt_time_s": 3462,
    "max_speed_kmh": 4.8,
    "avg_hr_bpm": 74
-  },
-  {
-   "started_at": "2026-10-05T16:12:24-04:00",
-   "ended_at": "2026-10-05T16:12:24-04:00",
-   "steps": 5602,
-   "distance_m": 0,
-   "belt_time_s": 0,
-   "max_speed_kmh": 0.3,
-   "avg_hr_bpm": 71
   },
   {
    "started_at": "2026-10-06T13:59:03-04:00",
@@ -209,12 +191,12 @@
   },
   {
    "started_at": "2026-10-06T14:25:27-04:00",
-   "ended_at": "2026-10-06T15:06:46-04:00",
-   "steps": 3831,
-   "distance_m": 3080,
-   "belt_time_s": 2488,
+   "ended_at": "2026-10-06T15:11:50-04:00",
+   "steps": 4298,
+   "distance_m": 3450,
+   "belt_time_s": 2792,
    "max_speed_kmh": 4.8,
-   "avg_hr_bpm": null
+   "avg_hr_bpm": 71
   }
  ]
 }
