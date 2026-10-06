@@ -1,12 +1,12 @@
 {
  "schema_version": 1,
  "timezone": "America/New_York",
- "updated_at": "2026-10-06T14:46:43-04:00",
+ "updated_at": "2026-10-06T14:56:42-04:00",
  "first_day": "2026-10-02",
  "totals": {
-  "steps": 49789,
-  "distance_m": 35520,
-  "belt_time_s": 28305,
+  "steps": 50712,
+  "distance_m": 36250,
+  "belt_time_s": 28906,
   "walks": 16
  },
  "race": {
@@ -23,15 +23,15 @@
    "lon": -118.10974
   },
   "goal_mi": 1939.0,
-  "distance_mi": 22.07,
-  "progress_pct": 1.138,
-  "remaining_mi": 1916.93,
+  "distance_mi": 22.52,
+  "progress_pct": 1.162,
+  "remaining_mi": 1916.48,
   "position": {
    "lat": 33.749,
-   "lon": -84.77185,
-   "place": "Douglasville, Georgia"
+   "lon": -84.77973,
+   "place": "Douglas County, Georgia"
   },
-  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-84.77185",
+  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-84.77973",
   "finished_on": null
  },
  "days": [
@@ -65,9 +65,9 @@
   },
   {
    "date": "2026-10-06",
-   "steps": 4163,
-   "distance_m": 3270,
-   "belt_time_s": 2744,
+   "steps": 5086,
+   "distance_m": 4000,
+   "belt_time_s": 3345,
    "walks": 2
   }
  ],
@@ -209,10 +209,10 @@
   },
   {
    "started_at": "2026-10-06T14:25:27-04:00",
-   "ended_at": "2026-10-06T14:46:43-04:00",
-   "steps": 1985,
-   "distance_m": 1610,
-   "belt_time_s": 1280,
+   "ended_at": "2026-10-06T14:56:42-04:00",
+   "steps": 2908,
+   "distance_m": 2340,
+   "belt_time_s": 1881,
    "max_speed_kmh": 4.8,
    "avg_hr_bpm": null
   }
