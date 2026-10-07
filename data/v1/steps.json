@@ -1,12 +1,12 @@
 {
  "schema_version": 1,
  "timezone": "America/New_York",
- "updated_at": "2026-10-07T14:59:38-04:00",
+ "updated_at": "2026-10-07T15:00:29-04:00",
  "first_day": "2026-10-02",
  "totals": {
-  "steps": 66433,
-  "distance_m": 52360,
-  "belt_time_s": 44000,
+  "steps": 66508,
+  "distance_m": 52410,
+  "belt_time_s": 44051,
   "walks": 17
  },
  "race": {
@@ -23,15 +23,15 @@
    "lon": -118.10974
   },
   "goal_mi": 1939.0,
-  "distance_mi": 32.53,
-  "progress_pct": 1.678,
-  "remaining_mi": 1906.47,
+  "distance_mi": 32.57,
+  "progress_pct": 1.68,
+  "remaining_mi": 1906.43,
   "position": {
    "lat": 33.749,
-   "lon": -84.95383,
+   "lon": -84.95437,
    "place": "Carroll County, Georgia"
   },
-  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-84.95383",
+  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-84.95437",
   "finished_on": null
  },
  "days": [
@@ -72,9 +72,9 @@
   },
   {
    "date": "2026-10-07",
-   "steps": 17508,
-   "distance_m": 13090,
-   "belt_time_s": 12462,
+   "steps": 17583,
+   "distance_m": 13140,
+   "belt_time_s": 12513,
    "walks": 3
   }
  ],
@@ -225,10 +225,10 @@
   },
   {
    "started_at": "2026-10-07T13:02:00-04:00",
-   "ended_at": "2026-10-07T14:59:38-04:00",
-   "steps": 10247,
-   "distance_m": 7860,
-   "belt_time_s": 7082,
+   "ended_at": "2026-10-07T15:00:29-04:00",
+   "steps": 10322,
+   "distance_m": 7910,
+   "belt_time_s": 7133,
    "max_speed_kmh": 4.0,
    "avg_hr_bpm": 73
   }
