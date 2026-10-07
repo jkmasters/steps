@@ -1,13 +1,13 @@
 {
  "schema_version": 1,
  "timezone": "America/New_York",
- "updated_at": "2026-10-07T15:45:28-04:00",
+ "updated_at": "2026-10-07T16:19:55-04:00",
  "first_day": "2026-10-02",
  "totals": {
-  "steps": 68768,
-  "distance_m": 53940,
-  "belt_time_s": 45891,
-  "walks": 18
+  "steps": 69088,
+  "distance_m": 54170,
+  "belt_time_s": 46130,
+  "walks": 19
  },
  "race": {
   "name": "Atlanta to the Pacific",
@@ -23,15 +23,15 @@
    "lon": -118.10974
   },
   "goal_mi": 1939.0,
-  "distance_mi": 33.52,
-  "progress_pct": 1.729,
-  "remaining_mi": 1905.48,
+  "distance_mi": 33.66,
+  "progress_pct": 1.736,
+  "remaining_mi": 1905.34,
   "position": {
    "lat": 33.749,
-   "lon": -84.9709,
+   "lon": -84.97339,
    "place": "Carroll County, Georgia"
   },
-  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-84.97090",
+  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-84.97339",
   "finished_on": null
  },
  "days": [
@@ -72,10 +72,10 @@
   },
   {
    "date": "2026-10-07",
-   "steps": 19843,
-   "distance_m": 14670,
-   "belt_time_s": 14353,
-   "walks": 4
+   "steps": 20163,
+   "distance_m": 14900,
+   "belt_time_s": 14592,
+   "walks": 5
   }
  ],
  "sessions": [
@@ -240,6 +240,15 @@
    "belt_time_s": 1840,
    "max_speed_kmh": 3.2,
    "avg_hr_bpm": 71
+  },
+  {
+   "started_at": "2026-10-07T16:15:58-04:00",
+   "ended_at": "2026-10-07T16:19:55-04:00",
+   "steps": 320,
+   "distance_m": 230,
+   "belt_time_s": 239,
+   "max_speed_kmh": 3.6,
+   "avg_hr_bpm": 72
   }
  ]
 }
