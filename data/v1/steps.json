@@ -1,12 +1,12 @@
 {
  "schema_version": 1,
  "timezone": "America/New_York",
- "updated_at": "2026-10-07T13:49:21-04:00",
+ "updated_at": "2026-10-07T13:59:25-04:00",
  "first_day": "2026-10-02",
  "totals": {
-  "steps": 60301,
-  "distance_m": 47660,
-  "belt_time_s": 39768,
+  "steps": 61174,
+  "distance_m": 48330,
+  "belt_time_s": 40374,
   "walks": 17
  },
  "race": {
@@ -23,15 +23,15 @@
    "lon": -118.10974
   },
   "goal_mi": 1939.0,
-  "distance_mi": 29.61,
-  "progress_pct": 1.527,
-  "remaining_mi": 1909.39,
+  "distance_mi": 30.03,
+  "progress_pct": 1.549,
+  "remaining_mi": 1908.97,
   "position": {
    "lat": 33.749,
-   "lon": -84.90304,
+   "lon": -84.91028,
    "place": "Villa Rica, Georgia"
   },
-  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-84.90304",
+  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-84.91028",
   "finished_on": null
  },
  "days": [
@@ -72,9 +72,9 @@
   },
   {
    "date": "2026-10-07",
-   "steps": 11376,
-   "distance_m": 8390,
-   "belt_time_s": 8230,
+   "steps": 12249,
+   "distance_m": 9060,
+   "belt_time_s": 8836,
    "walks": 3
   }
  ],
@@ -225,10 +225,10 @@
   },
   {
    "started_at": "2026-10-07T13:02:00-04:00",
-   "ended_at": "2026-10-07T13:49:21-04:00",
-   "steps": 4115,
-   "distance_m": 3160,
-   "belt_time_s": 2850,
+   "ended_at": "2026-10-07T13:59:25-04:00",
+   "steps": 4988,
+   "distance_m": 3830,
+   "belt_time_s": 3456,
    "max_speed_kmh": 4.0,
    "avg_hr_bpm": 72
   }
