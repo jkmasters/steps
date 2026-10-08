@@ -1,13 +1,13 @@
 {
  "schema_version": 1,
  "timezone": "America/New_York",
- "updated_at": "2026-10-08T10:21:22-04:00",
+ "updated_at": "2026-10-08T10:31:23-04:00",
  "first_day": "2026-10-02",
  "totals": {
-  "steps": 74301,
-  "distance_m": 57980,
-  "belt_time_s": 49865,
-  "walks": 22
+  "steps": 74492,
+  "distance_m": 58120,
+  "belt_time_s": 50001,
+  "walks": 23
  },
  "race": {
   "name": "Atlanta to the Pacific",
@@ -23,15 +23,15 @@
    "lon": -118.10974
   },
   "goal_mi": 1939.0,
-  "distance_mi": 36.03,
-  "progress_pct": 1.858,
-  "remaining_mi": 1902.97,
+  "distance_mi": 36.11,
+  "progress_pct": 1.863,
+  "remaining_mi": 1902.89,
   "position": {
    "lat": 33.749,
-   "lon": -85.01456,
+   "lon": -85.01607,
    "place": "Temple, Georgia"
   },
-  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-85.01456",
+  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-85.01607",
   "finished_on": null
  },
  "days": [
@@ -79,10 +79,10 @@
   },
   {
    "date": "2026-10-08",
-   "steps": 3558,
-   "distance_m": 2610,
-   "belt_time_s": 2536,
-   "walks": 3
+   "steps": 3749,
+   "distance_m": 2750,
+   "belt_time_s": 2672,
+   "walks": 4
   }
  ],
  "sessions": [
@@ -277,10 +277,19 @@
   },
   {
    "started_at": "2026-10-08T10:01:59-04:00",
-   "ended_at": "2026-10-08T10:21:22-04:00",
-   "steps": 1671,
-   "distance_m": 1260,
-   "belt_time_s": 1165,
+   "ended_at": "2026-10-08T10:22:28-04:00",
+   "steps": 1767,
+   "distance_m": 1330,
+   "belt_time_s": 1232,
+   "max_speed_kmh": 4.0,
+   "avg_hr_bpm": null
+  },
+  {
+   "started_at": "2026-10-08T10:30:14-04:00",
+   "ended_at": "2026-10-08T10:31:23-04:00",
+   "steps": 95,
+   "distance_m": 70,
+   "belt_time_s": 69,
    "max_speed_kmh": 4.0,
    "avg_hr_bpm": null
   }
