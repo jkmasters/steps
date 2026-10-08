@@ -1,13 +1,13 @@
 {
  "schema_version": 1,
  "timezone": "America/New_York",
- "updated_at": "2026-10-08T14:14:47-04:00",
+ "updated_at": "2026-10-08T18:22:29-04:00",
  "first_day": "2026-10-02",
  "totals": {
-  "steps": 92423,
-  "distance_m": 71620,
-  "belt_time_s": 62180,
-  "walks": 26
+  "steps": 93015,
+  "distance_m": 72070,
+  "belt_time_s": 62591,
+  "walks": 27
  },
  "race": {
   "name": "Atlanta to the Pacific",
@@ -23,15 +23,15 @@
    "lon": -118.10974
   },
   "goal_mi": 1939.0,
-  "distance_mi": 44.5,
-  "progress_pct": 2.295,
-  "remaining_mi": 1894.5,
+  "distance_mi": 44.78,
+  "progress_pct": 2.31,
+  "remaining_mi": 1894.22,
   "position": {
    "lat": 33.749,
-   "lon": -85.16196,
+   "lon": -85.16682,
    "place": "Haralson County, Georgia"
   },
-  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-85.16196",
+  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-85.16682",
   "finished_on": null
  },
  "days": [
@@ -79,10 +79,10 @@
   },
   {
    "date": "2026-10-08",
-   "steps": 21680,
-   "distance_m": 16250,
-   "belt_time_s": 14851,
-   "walks": 7
+   "steps": 22272,
+   "distance_m": 16700,
+   "belt_time_s": 15262,
+   "walks": 8
   }
  ],
  "sessions": [
@@ -319,6 +319,15 @@
    "belt_time_s": 2071,
    "max_speed_kmh": 4.0,
    "avg_hr_bpm": 76
+  },
+  {
+   "started_at": "2026-10-08T18:15:40-04:00",
+   "ended_at": "2026-10-08T18:22:29-04:00",
+   "steps": 592,
+   "distance_m": 450,
+   "belt_time_s": 411,
+   "max_speed_kmh": 4.0,
+   "avg_hr_bpm": null
   }
  ]
 }
