@@ -1,12 +1,12 @@
 {
  "schema_version": 1,
  "timezone": "America/New_York",
- "updated_at": "2026-10-08T12:51:56-04:00",
+ "updated_at": "2026-10-08T13:01:59-04:00",
  "first_day": "2026-10-02",
  "totals": {
-  "steps": 85359,
-  "distance_m": 66370,
-  "belt_time_s": 57444,
+  "steps": 86260,
+  "distance_m": 67040,
+  "belt_time_s": 58049,
   "walks": 25
  },
  "race": {
@@ -23,15 +23,15 @@
    "lon": -118.10974
   },
   "goal_mi": 1939.0,
-  "distance_mi": 41.24,
-  "progress_pct": 2.127,
-  "remaining_mi": 1897.76,
+  "distance_mi": 41.66,
+  "progress_pct": 2.148,
+  "remaining_mi": 1897.34,
   "position": {
    "lat": 33.749,
-   "lon": -85.10522,
+   "lon": -85.11246,
    "place": "Haralson County, Georgia"
   },
-  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-85.10522",
+  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-85.11246",
   "finished_on": null
  },
  "days": [
@@ -79,9 +79,9 @@
   },
   {
    "date": "2026-10-08",
-   "steps": 14616,
-   "distance_m": 11000,
-   "belt_time_s": 10115,
+   "steps": 15517,
+   "distance_m": 11670,
+   "belt_time_s": 10720,
    "walks": 6
   }
  ],
@@ -304,12 +304,12 @@
   },
   {
    "started_at": "2026-10-08T12:47:48-04:00",
-   "ended_at": "2026-10-08T12:51:56-04:00",
-   "steps": 366,
-   "distance_m": 270,
-   "belt_time_s": 249,
+   "ended_at": "2026-10-08T13:01:59-04:00",
+   "steps": 1267,
+   "distance_m": 940,
+   "belt_time_s": 854,
    "max_speed_kmh": 4.0,
-   "avg_hr_bpm": 79
+   "avg_hr_bpm": 75
   }
  ]
 }
