@@ -1,12 +1,12 @@
 {
  "schema_version": 1,
  "timezone": "America/New_York",
- "updated_at": "2026-10-08T10:31:23-04:00",
+ "updated_at": "2026-10-08T10:41:27-04:00",
  "first_day": "2026-10-02",
  "totals": {
-  "steps": 74492,
-  "distance_m": 58120,
-  "belt_time_s": 50001,
+  "steps": 75378,
+  "distance_m": 58790,
+  "belt_time_s": 50606,
   "walks": 23
  },
  "race": {
@@ -23,15 +23,15 @@
    "lon": -118.10974
   },
   "goal_mi": 1939.0,
-  "distance_mi": 36.11,
-  "progress_pct": 1.863,
-  "remaining_mi": 1902.89,
+  "distance_mi": 36.53,
+  "progress_pct": 1.884,
+  "remaining_mi": 1902.47,
   "position": {
    "lat": 33.749,
-   "lon": -85.01607,
+   "lon": -85.02331,
    "place": "Temple, Georgia"
   },
-  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-85.01607",
+  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-85.02331",
   "finished_on": null
  },
  "days": [
@@ -79,9 +79,9 @@
   },
   {
    "date": "2026-10-08",
-   "steps": 3749,
-   "distance_m": 2750,
-   "belt_time_s": 2672,
+   "steps": 4635,
+   "distance_m": 3420,
+   "belt_time_s": 3277,
    "walks": 4
   }
  ],
@@ -286,10 +286,10 @@
   },
   {
    "started_at": "2026-10-08T10:30:14-04:00",
-   "ended_at": "2026-10-08T10:31:23-04:00",
-   "steps": 95,
-   "distance_m": 70,
-   "belt_time_s": 69,
+   "ended_at": "2026-10-08T10:41:27-04:00",
+   "steps": 981,
+   "distance_m": 740,
+   "belt_time_s": 674,
    "max_speed_kmh": 4.0,
    "avg_hr_bpm": null
   }
