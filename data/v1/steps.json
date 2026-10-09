@@ -1,12 +1,12 @@
 {
  "schema_version": 1,
  "timezone": "America/New_York",
- "updated_at": "2026-10-09T11:52:43-04:00",
+ "updated_at": "2026-10-09T12:02:46-04:00",
  "first_day": "2026-10-02",
  "totals": {
-  "steps": 105531,
-  "distance_m": 81490,
-  "belt_time_s": 71128,
+  "steps": 106483,
+  "distance_m": 82240,
+  "belt_time_s": 71733,
   "walks": 30
  },
  "race": {
@@ -23,15 +23,15 @@
    "lon": -118.10974
   },
   "goal_mi": 1939.0,
-  "distance_mi": 50.64,
-  "progress_pct": 2.611,
-  "remaining_mi": 1888.36,
+  "distance_mi": 51.1,
+  "progress_pct": 2.635,
+  "remaining_mi": 1887.9,
   "position": {
    "lat": 33.749,
-   "lon": -85.26862,
+   "lon": -85.27672,
    "place": "Tallapoosa, Georgia"
   },
-  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-85.26862",
+  "map_url": "https://www.google.com/maps/search/?api=1&query=33.74900,-85.27672",
   "finished_on": null
  },
  "days": [
@@ -86,9 +86,9 @@
   },
   {
    "date": "2026-10-09",
-   "steps": 10164,
-   "distance_m": 7640,
-   "belt_time_s": 6932,
+   "steps": 11116,
+   "distance_m": 8390,
+   "belt_time_s": 7537,
    "walks": 3
   }
  ],
@@ -356,12 +356,12 @@
   },
   {
    "started_at": "2026-10-09T10:50:46-04:00",
-   "ended_at": "2026-10-09T11:52:43-04:00",
-   "steps": 5603,
-   "distance_m": 4230,
-   "belt_time_s": 3729,
+   "ended_at": "2026-10-09T12:02:46-04:00",
+   "steps": 6555,
+   "distance_m": 4980,
+   "belt_time_s": 4334,
    "max_speed_kmh": 5.6,
-   "avg_hr_bpm": 74
+   "avg_hr_bpm": 73
   }
  ]
 }
